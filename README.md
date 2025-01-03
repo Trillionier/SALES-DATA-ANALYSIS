@@ -1,1 +1,2 @@
-# SALES-DATA-ANALYSIS
+# Electronic Sales Analysis using Power BI
+In this project, I utilized Power BI to analyze the sales trends and revenue of an electronic sales dataset. The dashboard provided key insights into product performance, seasonal sales variations, and revenue contributions across different regions and customer segments. Visualizations such as line charts, bar graphs, and KPIs were used to identify trends, peak sales periods, and areas for business growth. The analysis enabled data-driven decision-making for optimizing inventory and marketing strategies.
